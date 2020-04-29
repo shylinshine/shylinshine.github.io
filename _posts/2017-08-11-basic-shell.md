@@ -1,6 +1,6 @@
 ---
 title: 构建基本shell脚本
-date: 2017-08-11
+date: 2020-04-23
 categories:
 - Linux
 tags:
