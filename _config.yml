@@ -86,7 +86,7 @@ rss:
 
 # Specify the date when the site was setup
 #since: 2015
-since: 2017
+since: 2020
 # icon between year and author @Footer
 authoricon: heart
 
@@ -574,7 +574,7 @@ exturl: false
 #! ---------------------------------------------------------------
 
 # Motion
-use_motion: true
+use_motion: false
 
 # Fancybox
 fancybox: true
@@ -600,10 +600,10 @@ pace: false
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: true
+canvas_nest: false
 
 # three_waves
-three_waves: false
+three_waves: true
 
 # canvas_lines
 canvas_lines: false
