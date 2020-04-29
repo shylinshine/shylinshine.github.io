@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Anchoret
+title: Shylinshine的博客
 subtitle: Choose You Own Path
-description: 逢君一笑，人间无此欢喜
+description: 纸上得来终觉浅,绝知此事要躬行
 author: Shylinshine
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -293,10 +293,7 @@ links_title: 推荐阅读
 links:
   阮一峰的网络日志: http://www.ruanyifeng.com/blog/archives.html
   R的极客理想系列: http://blog.fens.me/series-r/
-  谢益辉: https://yihui.name/
-  解螺旋的矿工: http://www.huangshujia.me/
-  GuangchuangYu: https://github.com/GuangchuangYu
-  生信技能树: https://vip.biotrainee.com/
+  廖雪峰: https://www.liaoxuefeng.com/
 
 # ---------------------------------------------------------------
 # Post Settings
