@@ -120,7 +120,7 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  sitemap: /sitemap.xml
+#sitemap: /sitemap.xml
  # commonweal: /404.html
 
 
@@ -259,8 +259,8 @@ creative_commons: by-nc-sa
 
 sidebar:
   # Sidebar Position, available value: left | right
-  #position: left
-  position: right
+  position: left
+  #position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
