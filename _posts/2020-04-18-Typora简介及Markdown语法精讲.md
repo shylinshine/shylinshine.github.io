@@ -1,6 +1,6 @@
 ---
 title: Typora简介及Markdown语法精讲
-date: 2017-09-02
+date: 2020-04-28
 categories: Documentation
 tags:
 - Markdown
